@@ -1,21 +1,22 @@
+# Army men themed strategy game
+Video:
 [![Video:](video_preview.jpg)](https://www.youtube.com/watch?v=3ruI_Uy5nRA)
 
-# Naval Warfare Game with Computer and Smartphone Controls
+
  ![](im2.jfif)
  
-* This game is about naval warfare. Players have ships, air and ground units with specific roles to combat enemy forces. Future version will contain several classes of ships including submarines and aircraft carriers, air forces with close air support, interceptors, bombers, torpedo bombers and strategic bombers. Ground forces will include tanks and infantry. Islands with ports will be added.
+* 
 ---
 ## Currently game contains:
-* Smartphone Controls: Pan, Zoom, Y-Axis rotation (3 finger swipe), X-Axis rotation (4 finger swipe)
-* Computer Controls: Pan (left Click + drag), Zoom(mouse wheel scroll or W/S keys), Y-Axis rotation (Q/E keys), X-Axis rotation (A/D keys)
-* 3D models made in Blender: Destroyer, Cruiser, Carrier, CAS air plane
-* Tap/Click to select Player unit (green and gray ship) and tap/click water plane to move it.
+* Smartphone touch Controls
+* Keyboard + Mouse Controls
+* 3D models made by me in Blender: soldiers, tank, airplanes, various buildings
+* Combat: units shoot each others and die
 ---
 ## Future improvements:
-* Combat system
-* Air and Ground units
-* Islands
-* Unit Pathfinding system
-* Scripted Bot to simulate opposing Player
-* UI, Spawning of Units
-* New 3D models
+* Optimization
+* Unit Movements
+* Improved Combat
+* More Unit Types
+* Improved Level Design
+* Unit Pathfinding
