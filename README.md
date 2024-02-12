@@ -1,11 +1,7 @@
 # Army men themed strategy game
 Video:
 [![Video:](video_preview.jpg)](https://www.youtube.com/watch?v=3ruI_Uy5nRA)
-
-
- ![](im2.jfif)
- 
-* 
+![](im2.jfif) 
 ---
 ## Currently game contains:
 * Smartphone touch Controls
